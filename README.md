@@ -58,5 +58,8 @@ ninja -C build
 
 ![image](https://github.com/LinuxBeaver/Ring_Text_Gimp_Plugin/assets/78667207/5805c50d-e08a-4b6a-a514-23ae0f95c264)
 
+btw, this filter depends on another plugin called SSG that ships with it.It is a stand alone plugin for outlining images.
+![image](https://github.com/LinuxBeaver/Ring_Text_Gimp_Plugin/assets/78667207/13e6ec09-845c-4722-9138-d3fa8b0f9b65)
+
 
 
