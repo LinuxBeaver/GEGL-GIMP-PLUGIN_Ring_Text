@@ -49,8 +49,11 @@ ninja -C build
 
 ## Preview of this plugin using its "gegl syntax mode" correctly. the syntax makes the fancy effect.
 
-![image](https://github.com/LinuxBeaver/GEGL-glossy-balloon-text-styling/assets/78667207/b23303be-edeb-4b4d-9015-0209dab12689)
-
 ![image](https://github.com/LinuxBeaver/Ring_Text_Gimp_Plugin/assets/78667207/ba1e9b7e-969d-4d1a-b9e2-b54181a698c1)
+
+**Another Preview**
+
+![image](https://github.com/LinuxBeaver/Ring_Text_Gimp_Plugin/assets/78667207/5805c50d-e08a-4b6a-a514-23ae0f95c264)
+
 
 
