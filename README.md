@@ -22,6 +22,7 @@ C:\Users\USERNAME\AppData\Local\gegl-0.4\plug-ins
 
 ![image](https://github.com/LinuxBeaver/GEGL-glossy-balloon-text-styling/assets/78667207/f15fb5eb-c8d7-4c08-bbac-97048864e657)
 
+Then Restart Gimp and go to GEGL Operations and look for "Ring Text" if you use Gimp 2.99.16+ it will be in filters>text styling
 
 ## Compiling and Installing
 **Linux**
@@ -46,6 +47,8 @@ Then build the same way you would on Linux:
 
 meson setup --buildtype=release build
 ninja -C build
+
+
 
 ## Preview of this plugin using its "gegl syntax mode" correctly. the syntax makes the fancy effect.
 
