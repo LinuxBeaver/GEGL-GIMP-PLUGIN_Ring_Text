@@ -6,7 +6,7 @@ Make Ring Text in Gimp using this Plugin. Below is two image previews of this pl
 
 
 Download binaries here. (FOLLOW INSTRUCTIONS)
-https://github.com/LinuxBeaver/Gimp_Ring_Text/releases
+https://github.com/LinuxBeaver/Ring_Text_Gimp_Plugin/releases/tag/Gimp_Ring_Text
 
 
 ## OS specific location to put GEGL Filter binaries 
